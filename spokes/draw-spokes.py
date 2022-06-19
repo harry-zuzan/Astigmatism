@@ -18,8 +18,8 @@ def spokes(n, rad1, rad2, vshift):
 
 
 spoke_gen0 = spokes(32,1.0,4.0,0.0)
-spoke_gen1 = spokes(32,1.0,4.0,-0.05)
-spoke_gen2 = spokes(32,1.0,4.0,0.05)
+spoke_gen1 = spokes(32,1.0,4.0,-0.025)
+spoke_gen2 = spokes(32,1.0,4.0,0.025)
 spoke_gen3 = spokes(4,0.5,0.9,0.0)
 spoke_gen4 = spokes(8,0.7,0.9,0.0)
 	
@@ -62,4 +62,4 @@ plt.xlim(-4,4)
 plt.ylim(-4,4)
 
 plt.axis('off')
-plt.savefig('test.pdf')
+plt.savefig('spokes.pdf')

@@ -7,13 +7,14 @@ onto the retina.
 An optometrist evaluates astigmatism under conditions that most people
 find undesireable.  For almost anyone, reading the alphabet in a dimly 
 lit room with tunnel vision enforced is not quality time that would be
-pursued.  Eye exams are tuned to this curcumstance with quality of
+pursued.  Eye exams are tuned to this circumstance with quality of
 vision, that affects quality of life, imputed from dim light.  There
 are reasons why corretions for astigmatism are overfitted and incorret
 under bright light with eyes moving.
 
 Spokes creates what looks like the spokes of a wheel where the spokes come
 in parallel pairs.  This is useful for identifying angles of astigmatism.
+
 
 Irregularity on the surface of the cornea has a more profound effect than
 than an irregularity on the lens because of the greater change of speed
@@ -53,7 +54,14 @@ There are several problems with this.
 6. As the iris contracts, depth of field increases which diminishes the 
    effect of the astigmatism.
 
-7. Astigmatism has opposite rotations at either end of the focal length
+7. In a properly lit room the iris is closed more than it is in thd dimly
+   lit room of an eye exam.  As the iris closes light a smaller region of
+   the cornea bends light through the iris.  The cornea is a convex surface
+   and any region of a convex surface approaches a sphere  as that region
+   The cyinder prescribed for astigmatism does not account for eyes moving,
+   The fit is only valid in a dimly lit room looking straight ahead.  In
+   a properly lit room the angle of the cylinder prescribed is incorrect
+   and the magnitude of cylinder prescribed is too great.
 
 8. Optometrists are not concerned with peripheral vison when prescribing.
    Only the alphabet on the chart as if looking through a tunnel. The
