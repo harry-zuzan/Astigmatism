@@ -77,3 +77,4 @@ There are several problems with this.
    chart in order to evaluate whether or not the prescription that was
    issued is subject to improvement.  It is odd to spend a whole career
    imputing vision and never checking to see if the assumptions are off. 
+
